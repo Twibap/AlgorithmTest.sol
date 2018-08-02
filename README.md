@@ -6,9 +6,8 @@ AlgorithmStudy.test.js로 임의의 길이의 배열을 스마트 컨트랙트�
 
 ## 개발 환경
 > truffle
+
 > ganache-cli
 
 ## 사용방법
-> truffle compile
-> truffle migrate
-> truffle test
+> truffle compile && truffle migrate && truffle test
